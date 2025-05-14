@@ -11,6 +11,7 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.6",
     "html2img": "^0.0.1",
+    "lodash.clonedeep": "^4.5.0",
     "scss": "^0.2.4",
     "tailwindcss": "^4.1.6",
     "tdesign-vue-next": "^1.12.0",
